@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "61c94b3d42a108059a5077b5",
+    "userName": "JANE SMITH",
+    "userAccNumber": "1234230056783456",
+    "userCredit": [
+      {
+        "date": "8Feb2021",
+        "activity": "Convenience store",
+        "amount": "$14.83"
+      },
+      {
+        "date": "9Feb2021",
+        "activity": "Italian restaurant",
+        "amount": "$30.55"
+      },
+      {
+        "date": "13Feb2021",
+        "activity": "Clothing store",
+        "amount": "$27.50"
+      },
+      {
+        "date": "17Feb2021",
+        "activity": "Gift shop",
+        "amount": "$12.26"
+      },
+      {
+        "date": "24Feb2021",
+        "activity": "Grocery store",
+        "amount": "$40.10"
+      },
+      {
+        "date": "2Mar2021",
+        "activity": "Clothing store",
+        "amount": "$30.80"
+      },
+      {
+        "date": "7Mar2021",
+        "activity": "Toy store",
+        "amount": "$12.60"
+      }
+    ],
+    "userPaymentDue": [
+      "30 Mar 2022"
+    ]
+  }
+]
